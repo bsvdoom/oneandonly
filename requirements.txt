@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pillow
+pyautogui
+easyocr
+pyinstaller
+pygame

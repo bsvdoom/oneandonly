@@ -1,0 +1,1 @@
+c:\Users\adam\AppData\Roaming\Python\Python311\Scripts\pyinstaller -w -F -i codicon.ico --add-data "iamtheoneandonly.wav;." --log-level=WARN main.py
